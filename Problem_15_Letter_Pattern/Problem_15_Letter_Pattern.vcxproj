@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a2d23cef-f638-4d4e-ad99-e2d240a4be1e}</ProjectGuid>
-    <RootNamespace>AlgorithmsProblemSolvingLevel2</RootNamespace>
+    <ProjectGuid>{bf7c25a3-b289-40bb-8aaf-52bd729fb2c3}</ProjectGuid>
+    <RootNamespace>Problem15LetterPattern</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="README.md" />
+    <ClCompile Include="15_letter_pattern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
