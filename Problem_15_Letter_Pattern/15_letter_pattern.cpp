@@ -27,8 +27,8 @@ void PrintLetters(int Num) {
 }
 int main()
 {
-
-    PrintLetters(ReadPositiveNumber("Please enter a positive number?"));
+	// Read a positive number from the user and print the corresponding letter pattern.
+    PrintLetters(ReadPositiveNumber("Please enter a positive number? "));
 
     return 0;
 }
