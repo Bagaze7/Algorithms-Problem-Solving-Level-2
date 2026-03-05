@@ -31,7 +31,7 @@ void CreateArray(int arr[100], int& arrLength) {
         arr[i] = RandomNumber(1, 100); // Fill the array with random numbers between 1 and 100.
     }
 }
-void PrintArrayy(int arr[100], int arrLength) {
+void PrintArray(int arr[100], int arrLength) {
     cout << "Array 1 elements:" << endl;
     for (int i = 0; i < arrLength; i++) {
         cout << arr[i] << " "; // Print each element of the array followed by a space.
@@ -87,7 +87,7 @@ int main()
     int arrLength;
     int secondArrLength;
     CreateArray(arr, arrLength);
-    PrintArrayy(arr, arrLength);
+    PrintArray(arr, arrLength);
     PrintSecondArray(SecondArr, GetPrimeNumbers(arr, arrLength, SecondArr));
     return 0;
 }
