@@ -84,10 +84,15 @@ int main()
 
     int SecondArr[100];
     int arr[100];
+
     int arrLength;
     int secondArrLength;
+
     CreateArray(arr, arrLength);
+
     PrintArray(arr, arrLength);
+
     PrintSecondArray(SecondArr, GetPrimeNumbers(arr, arrLength, SecondArr));
+
     return 0;
 }
