@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_15_Letter_Pattern", "Problem_15_Letter_Pattern\Problem_15_Letter_Pattern.vcxproj", "{BF7C25A3-B289-40BB-8AAF-52BD729FB2C3}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_17_Guess_Password", "Problem_17_Guess_Password\Problem_17_Guess_Password.vcxproj", "{201FA0B1-4992-41C8-986E-1DEC12AD79FF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_18_Caesar_Cipher", "Problem_18_Caesar_Cipher\Problem_18_Caesar_Cipher.vcxproj", "{CB9C0BEE-1BBB-402E-A99D-B67E81C1E35F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_19_Random_Number", "Problem_19_Random_Number\Problem_19_Random_Number.vcxproj", "{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_29_Copy_Prime_Numbers", "Problem_29_Copy_Prime_Numbers\Problem_29_Copy_Prime_Numbers.vcxproj", "{52A05C3E-705F-4A51-8612-2BF58622C5A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,22 @@ Global
 		{CB9C0BEE-1BBB-402E-A99D-B67E81C1E35F}.Release|x64.Build.0 = Release|x64
 		{CB9C0BEE-1BBB-402E-A99D-B67E81C1E35F}.Release|x86.ActiveCfg = Release|Win32
 		{CB9C0BEE-1BBB-402E-A99D-B67E81C1E35F}.Release|x86.Build.0 = Release|Win32
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Debug|x64.ActiveCfg = Debug|x64
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Debug|x64.Build.0 = Debug|x64
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Debug|x86.Build.0 = Debug|Win32
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Release|x64.ActiveCfg = Release|x64
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Release|x64.Build.0 = Release|x64
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Release|x86.ActiveCfg = Release|Win32
+		{E57ACEA7-ED75-4A73-84A0-9D3D8A8DE7A4}.Release|x86.Build.0 = Release|Win32
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Debug|x64.ActiveCfg = Debug|x64
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Debug|x64.Build.0 = Debug|x64
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Debug|x86.Build.0 = Debug|Win32
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Release|x64.ActiveCfg = Release|x64
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Release|x64.Build.0 = Release|x64
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Release|x86.ActiveCfg = Release|Win32
+		{52A05C3E-705F-4A51-8612-2BF58622C5A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
