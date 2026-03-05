@@ -39,5 +39,5 @@ void PrintLetters() {
 	}
 }
 int main() {
-	cout << "kdfhkhdf";
+	PrintLetters();
 }
