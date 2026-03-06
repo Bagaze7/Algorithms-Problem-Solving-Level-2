@@ -57,6 +57,7 @@ int main()
     int arrLength = ReadPositiveNumber("Enter number of elements:");
 
     CreateArray(arr, arrLength);
+
     cout << "Array 1 elements:" << endl;
     PrintArray(arr, arrLength);
     int Number = ReadPositiveNumber("Please enter a number to search for");
