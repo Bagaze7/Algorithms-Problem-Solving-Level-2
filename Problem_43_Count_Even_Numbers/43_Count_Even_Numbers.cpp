@@ -28,7 +28,7 @@ void AddArrayElement(int Number, int arr[100], int& arrLength)
     arrLength++;
     arr[arrLength - 1] = Number;
 }
-int PositiveCount(int arr[100], int arrLength) {
+int NegativeCount(int arr[100], int arrLength) {
     int count = 0;
     for (int i = 0; i < arrLength; i++) {
         if (arr[i] % 2 == 0) {
@@ -52,7 +52,7 @@ int main() {
     PrintArray(arr, arrLength);
 
     cout << "\nEven Numbers count is: ";
-    cout << PositiveCount(arr, arrLength) << endl;
+    cout << NegativeCount(arr, arrLength) << endl;
 
 
     return 0;

@@ -31,7 +31,7 @@ void AddArrayElement(int Number, int arr[100], int& arrLength)
 int NegativeCount(int arr[100], int arrLength) {
     int count = 0;
     for (int i = 0; i < arrLength; i++) {
-        if (arr[i] >= 0) {
+        if (arr[i] < 0) {
             count++;
         }
     }
@@ -51,8 +51,7 @@ int main() {
     cout << "\nArray 1 elements:\n";
     PrintArray(arr, arrLength);
 
-    cout << "\nPositive Numbers count is: ";
-    cout << NegativeCount(arr, arrLength) << endl;
+    cout << "\nNegative Numbers count is: ";    cout << NegativeCount(arr, arrLength) << endl;
 
 
     return 0;
