@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_38_Copy_Odd_Numbers
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_39_Copy_Prime_Numbers", "Problem_39_Copy_Prime_Numbers\Problem_39_Copy_Prime_Numbers.vcxproj", "{5402EAEC-BF33-44C6-82B6-0C2C86145FE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_40_Copy_Distinct_Numbers", "Problem_40_Copy_Distinct_Numbers\Problem_40_Copy_Distinct_Numbers.vcxproj", "{F321D4AF-BC7D-42A1-942F-60B87F517EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{5402EAEC-BF33-44C6-82B6-0C2C86145FE8}.Release|x64.Build.0 = Release|x64
 		{5402EAEC-BF33-44C6-82B6-0C2C86145FE8}.Release|x86.ActiveCfg = Release|Win32
 		{5402EAEC-BF33-44C6-82B6-0C2C86145FE8}.Release|x86.Build.0 = Release|Win32
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Debug|x64.ActiveCfg = Debug|x64
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Debug|x64.Build.0 = Debug|x64
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Debug|x86.Build.0 = Debug|Win32
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Release|x64.ActiveCfg = Release|x64
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Release|x64.Build.0 = Release|x64
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Release|x86.ActiveCfg = Release|Win32
+		{F321D4AF-BC7D-42A1-942F-60B87F517EFB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
