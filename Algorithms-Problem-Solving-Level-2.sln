@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_41_Palindrome_Array
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_42_Count_Odd_Numbers", "Problem_42_Count_Odd_Numbers\Problem_42_Count_Odd_Numbers.vcxproj", "{B0E2FDC8-015A-49A0-9F1D-39F5018661A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_43_Count_Even_Numbers", "Problem_43_Count_Even_Numbers\Problem_43_Count_Even_Numbers.vcxproj", "{29FF0F29-6D9E-4845-9A13-4935ED70E348}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{B0E2FDC8-015A-49A0-9F1D-39F5018661A3}.Release|x64.Build.0 = Release|x64
 		{B0E2FDC8-015A-49A0-9F1D-39F5018661A3}.Release|x86.ActiveCfg = Release|Win32
 		{B0E2FDC8-015A-49A0-9F1D-39F5018661A3}.Release|x86.Build.0 = Release|Win32
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Debug|x64.ActiveCfg = Debug|x64
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Debug|x64.Build.0 = Debug|x64
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Debug|x86.ActiveCfg = Debug|Win32
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Debug|x86.Build.0 = Debug|Win32
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Release|x64.ActiveCfg = Release|x64
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Release|x64.Build.0 = Release|x64
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Release|x86.ActiveCfg = Release|Win32
+		{29FF0F29-6D9E-4845-9A13-4935ED70E348}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
